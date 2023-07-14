@@ -36,9 +36,9 @@ To run the DNS/DHCP/Netplan autoconfigurator, the following requirements must be
 
 ## Author
 
-The DNS/DHCP/Netplan autoconfigurator was created by [Your Name].
+The DNS/DHCP/Netplan autoconfigurator was created by ogiusek.
 
 ## License
 
-This project is licensed under the [license name]. Details can be found in the LICENSE file.
+This project is licensed under the unlicense. Details can be found in the LICENSE file.
 
