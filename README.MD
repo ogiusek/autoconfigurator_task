@@ -29,7 +29,7 @@ To run the DNS/DHCP/Netplan autoconfigurator, the following requirements must be
 ## Instructions
 
 1. Clone the repository for the DNS/DHCP/Netplan autoconfigurator.
-2. Run the `autoconfigurator.sh` script with administrator privileges.
+2. Run the `app.sh` script with administrator privileges.
 3. Follow the on-screen instructions presented in the graphical interface to configure the DNS server, DHCP server, and Netplan configuration files.
 4. Provide the requested information accurately to ensure correct configuration.
 5. Apply the changes and restart the relevant services upon completion.
