@@ -1,0 +1,14 @@
+{
+  "netplan": {
+    "main": "/etc/netplan/00-installer-config.yaml"
+  },
+  "dhcp": {
+    "main": "/etc/dhcp/dhcpd.conf",
+    "interface": "/etc/default/isc-dhcp-server"
+  },
+  "dns": {
+    "fowards": "/etc/bind/named.conf.options",
+    "zones": "/etc/bind/named.conf.local",
+    "dir": "/etc/bind/"
+  }
+}
